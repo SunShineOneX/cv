@@ -3,12 +3,12 @@ body {
   }
 
 a {
-  background-color: springgreen;
+  background-color: #00FF7F7;
   transition: .7s;
 }
 
 a:hover {
-  background-color: gold;
+  background-color: #FFD700;
 }
 
   hr {
