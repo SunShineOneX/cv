@@ -2,6 +2,15 @@ body {
     background-color:#8f71ff;
   }
 
+a {
+  background-color: springgreen;
+  transition: .7s;
+}
+
+a:hover {
+  background-color: gold;
+}
+
   hr {
       border-style: none;
       border-top-style: dotted;
